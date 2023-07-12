@@ -1,4 +1,4 @@
-# Live Chat
+# Live Chat App
 
 ### Stack: React, React Router Dom, SCSS, Firebase
 
